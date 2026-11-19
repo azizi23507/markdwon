@@ -1,4 +1,4 @@
-# markdwon
+
 *italic*\
 **bold**\
 #h1
@@ -8,12 +8,7 @@
 
 
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+
 <sub>text</sub>
 <ins>text</ins>
 
@@ -43,3 +38,16 @@ System.out.println("hello world")
 - old_value = 1
 + new_value = 2
 ```
+
+1. Set up the project
+    ```bash
+   brew install gh
+   ```
+2. Write code
+    1. Create a branch
+    2. Commit often
+
+- [x] write the readme
+    + [X] with markdown
+    + [ ] without markdwon
+- [  ] add a license 
