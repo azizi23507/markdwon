@@ -75,3 +75,7 @@ Refrence style URL:\
 | Install | Run the installer<br>then restart |
 
 Great work :tada: :rocket: :+1:
+
+GitHub Flow keeps main deployable.[^1]
+
+[^1]: See the GitHub Docs article on GitHub Flow.
