@@ -50,4 +50,4 @@ System.out.println("hello world")
 - [x] write the readme
     + [X] with markdown
     + [ ] without markdwon
-- [  ] add a license 
+- [ ] add a license 
