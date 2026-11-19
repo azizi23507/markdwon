@@ -79,3 +79,17 @@ Great work :tada: :rocket: :+1:
 GitHub Flow keeps main deployable.[^1]
 
 [^1]: See the GitHub Docs article on GitHub Flow.
+> [!NOTE]
+> Useful information the reader should know.
+
+> [!TIP]
+> Helpful advice for doing things better.
+
+> [!IMPORTANT]
+> Key information needed to succeed.
+
+> [!WARNING]
+> Urgent info that needs immediate attention.
+
+> [!CAUTION]
+> Advice about risks or bad outcomes of an action.
