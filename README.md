@@ -1,2 +1,3 @@
 # markdwon
-*italic*
+*italic* <br>
+**bold**
