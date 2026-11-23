@@ -1,0 +1,13 @@
+name: Bug report
+description: Report something that is not working
+labels: ["bug"]
+body:
+  - type: textarea
+    attributes:
+      label: What happened?
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: Browser
+      options: [Chrome, Firefox, Safari]
