@@ -4,10 +4,10 @@
 [H1](#h1)
 [GitHub Docs](https://docs.github.com)
 [GitHub Docs](https://docs.github.com "Hover title")
+![bermuda triangle](image.png)
 
 <details>
 <summary>this is the collapsible </summary>    
-![bermuda triangle](image.png)
 
 
 <sub>text</sub>
