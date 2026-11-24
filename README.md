@@ -5,7 +5,8 @@
 [GitHub Docs](https://docs.github.com)
 [GitHub Docs](https://docs.github.com "Hover title")
 
-
+<details>
+<summary>this is the collapsible </summary>    
 ![bermuda triangle](image.png)
 
 
@@ -17,6 +18,7 @@
 > It can span several lines.
 >
 > > And quotes can be nested.
+</details>
 
 `this is code`
 `` use `this` ``
